@@ -1,0 +1,15 @@
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\bin\Debug\net8.0\Ex3.exe
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\bin\Debug\net8.0\Ex3.deps.json
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\bin\Debug\net8.0\Ex3.runtimeconfig.json
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\bin\Debug\net8.0\Ex3.dll
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\bin\Debug\net8.0\Ex3.pdb
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\obj\Debug\net8.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\obj\Debug\net8.0\Ex3.AssemblyInfoInputs.cache
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\obj\Debug\net8.0\Ex3.AssemblyInfo.cs
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\obj\Debug\net8.0\Ex3.csproj.CoreCompileInputs.cache
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\obj\Debug\net8.0\Ex3.sourcelink.json
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\obj\Debug\net8.0\Ex3.dll
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\obj\Debug\net8.0\refint\Ex3.dll
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\obj\Debug\net8.0\Ex3.pdb
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\obj\Debug\net8.0\Ex3.genruntimeconfig.cache
+c:\Users\pedro\OneDrive\Documentos\Programinha\C#\Trabalhos C#\Exercícios Grau POO\Prog. Avançada\Ex3\Ex3\obj\Debug\net8.0\ref\Ex3.dll
