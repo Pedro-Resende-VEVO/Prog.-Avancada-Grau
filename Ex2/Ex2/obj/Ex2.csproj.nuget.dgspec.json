@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\OneDrive\\Documentos\\Programinha\\C#\\Trabalhos C#\\Exercícios Grau POO\\Prog. Avançada\\Ex.1\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\pedro\\OneDrive\\Documentos\\Programinha\\C#\\Trabalhos C#\\Exercícios Grau POO\\Prog. Avançada\\Ex2\\Ex2\\Ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\OneDrive\\Documentos\\Programinha\\C#\\Trabalhos C#\\Exercícios Grau POO\\Prog. Avançada\\Ex.1\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\pedro\\OneDrive\\Documentos\\Programinha\\C#\\Trabalhos C#\\Exercícios Grau POO\\Prog. Avançada\\Ex2\\Ex2\\Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Documentos\\Programinha\\C#\\Trabalhos C#\\Exercícios Grau POO\\Prog. Avançada\\Ex.1\\Calculator\\Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\Programinha\\C#\\Trabalhos C#\\Exercícios Grau POO\\Prog. Avançada\\Ex.1\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\OneDrive\\Documentos\\Programinha\\C#\\Trabalhos C#\\Exercícios Grau POO\\Prog. Avançada\\Ex2\\Ex2\\Ex2.csproj",
+        "projectName": "Ex2",
+        "projectPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\Programinha\\C#\\Trabalhos C#\\Exercícios Grau POO\\Prog. Avançada\\Ex2\\Ex2\\Ex2.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\Programinha\\C#\\Trabalhos C#\\Exercícios Grau POO\\Prog. Avançada\\Ex.1\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\OneDrive\\Documentos\\Programinha\\C#\\Trabalhos C#\\Exercícios Grau POO\\Prog. Avançada\\Ex2\\Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
